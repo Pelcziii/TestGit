@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         print("super tekst")
         print("kolejna zmiana")
         print("Nowy prtint")
+        print("Git3")
     }
 
 
