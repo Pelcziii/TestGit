@@ -14,7 +14,7 @@ class ViewController: UIViewController {
         
         print("super tekst")
         print("kolejna zmiana")
-        // Do any additional setup after loading the view.
+        print("Nowy prtint")
     }
 
 
